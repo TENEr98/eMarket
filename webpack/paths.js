@@ -6,7 +6,7 @@ module.exports = {
   ENTRY_PATH: path.resolve(__dirname, '../', 'src/main.jsx'),
   TEMPLATE_PATH: path.resolve(__dirname, '../', 'src/index.html'),
   ASSETS_PATH: path.resolve(__dirname, '../', 'src/assets/'),
-  UTILS_PATH: path.resolve(__dirname, '../', 'src/utils/'),
+  UI_PATH: path.resolve(__dirname, '../', 'src/components/UI/'),
   IMAGES_FOLDER: 'img',
   FONTS_FOLDER: 'fonts',
   CSS_FOLDER: 'css',

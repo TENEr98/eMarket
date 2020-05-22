@@ -22,6 +22,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Unconfigured Editors
+.vscode
 .idea
 *.suo
 *.ntvs*
@@ -35,3 +36,9 @@ cypress/screenshots/
 coverage/
 .nyc/
 .nyc_output/
+src/components/Profile/
+src/components/UI/Card/
+src/components/UI/Form/
+src/components/UI/SpinnerLoader/
+src/context/
+/.vscode/

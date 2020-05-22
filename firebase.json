@@ -1,0 +1,14 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "firebaseConfig": {
+    "apiKey": "AIzaSyAau01FHXdrdsBNmCJOjl-2PS6niNDqOJI",
+    "authDomain": "e-market-ec333.firebaseapp.com",
+    "databaseURL": "https://e-market-ec333.firebaseio.com",
+    "projectId": "e-market-ec333",
+    "storageBucket": "e-market-ec333.appspot.com",
+    "messagingSenderId": "1093350899583",
+    "appId": "1:1093350899583:web:38bae597aeb997c315644a"
+  }
+}
